@@ -1,6 +1,3 @@
-
-
-
 # CS50P Progress
 
 ## Week 0 — Done ✅
